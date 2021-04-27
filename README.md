@@ -55,3 +55,5 @@ cd django_project
 ## Цели проекта
 
 Код написан для туториала из курса по Python и веб-разработке [Devman](https://dvmn.org).
+
+Ссылка на туториал: [Настройка Django и Flask c Nginx и Gunicorn в Ubuntu](https://devman.org/encyclopedia/web-server/deploy-django-nginx-gunicorn/)
