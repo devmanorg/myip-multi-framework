@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==2.1.0
 Django==3.2
 environs[django]==9.3.2
 gunicorn==20.*
